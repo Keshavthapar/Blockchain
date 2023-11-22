@@ -1,0 +1,8 @@
+{
+  "blockchain_backend": {
+    "ic": "5zzb4-diaaa-aaaak-afe6a-cai"
+  },
+  "blockchain_frontend": {
+    "ic": "5q2ka-vaaaa-aaaak-afe7q-cai"
+  }
+}
